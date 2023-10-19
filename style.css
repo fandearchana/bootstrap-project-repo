@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    background-image: url("../img/gym\ bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;       
+} 
+.logo{
+    width:10vw;
+    height:10vh;    
+}
+.navstyle{
+    margin-left:20vw ; 
+}
+
+p{
+    font-weight: bold;
+}
